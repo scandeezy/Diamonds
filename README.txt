@@ -1,5 +1,7 @@
                                    Diamonds
 
+https://en.wikipedia.org/wiki/Diamonds_(video_game)
+
 In this Breakout-style game, guide the bouncing ball left and right, clearing
 away blocks to reach the next level.
 
